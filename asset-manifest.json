@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pharmaceutical-wiki/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/pharmaceutical-wiki/static/js/main.f4ccec48.chunk.js",
-    "main.js.map": "/pharmaceutical-wiki/static/js/main.f4ccec48.chunk.js.map",
+    "main.js": "/pharmaceutical-wiki/static/js/main.bb6165d8.chunk.js",
+    "main.js.map": "/pharmaceutical-wiki/static/js/main.bb6165d8.chunk.js.map",
     "runtime-main.js": "/pharmaceutical-wiki/static/js/runtime-main.a4bc9271.js",
     "runtime-main.js.map": "/pharmaceutical-wiki/static/js/runtime-main.a4bc9271.js.map",
     "static/js/2.1ca7944c.chunk.js": "/pharmaceutical-wiki/static/js/2.1ca7944c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a4bc9271.js",
     "static/js/2.1ca7944c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f4ccec48.chunk.js"
+    "static/js/main.bb6165d8.chunk.js"
   ]
 }
