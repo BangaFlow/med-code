@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pharmaceutical-wiki/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pharmaceutical-wiki/static/js/main.f4ccec48.chunk.js",
+    "main.js.map": "/pharmaceutical-wiki/static/js/main.f4ccec48.chunk.js.map",
+    "runtime-main.js": "/pharmaceutical-wiki/static/js/runtime-main.a4bc9271.js",
+    "runtime-main.js.map": "/pharmaceutical-wiki/static/js/runtime-main.a4bc9271.js.map",
+    "static/js/2.1ca7944c.chunk.js": "/pharmaceutical-wiki/static/js/2.1ca7944c.chunk.js",
+    "static/js/2.1ca7944c.chunk.js.map": "/pharmaceutical-wiki/static/js/2.1ca7944c.chunk.js.map",
+    "static/js/3.e32c54f6.chunk.js": "/pharmaceutical-wiki/static/js/3.e32c54f6.chunk.js",
+    "static/js/3.e32c54f6.chunk.js.map": "/pharmaceutical-wiki/static/js/3.e32c54f6.chunk.js.map",
+    "index.html": "/pharmaceutical-wiki/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pharmaceutical-wiki/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1ca7944c.chunk.js.LICENSE.txt": "/pharmaceutical-wiki/static/js/2.1ca7944c.chunk.js.LICENSE.txt",
+    "static/media/logo.c863f48e.png": "/pharmaceutical-wiki/static/media/logo.c863f48e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4bc9271.js",
+    "static/js/2.1ca7944c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f4ccec48.chunk.js"
+  ]
+}
